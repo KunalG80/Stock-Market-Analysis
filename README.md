@@ -9,7 +9,7 @@
 | Property | Details |
 |---|---|
 | **File** | `AMAZON_daily.csv` |
-| **Source** | [Yahoo Finance — AMZN Historical Data](https://finance.yahoo.com/quote/AMZN/history/) |
+| **Source** | [Yahoo Finance — AMZN Historical Data]([https://www.kaggle.com/datasets/nikhil1e9/netflix-stock-price]) |
 | **Coverage** | May 15, 1997 → September 22, 2026 |
 | **Rows** | 7,384 trading days |
 | **Columns** | Date, Open, High, Low, Close, Adj Close, Volume |
